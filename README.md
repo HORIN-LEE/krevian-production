@@ -1,4 +1,4 @@
-# KREVIAN PRODUCTION
+# KREVIAN NETWORK
 
 [공식 웹사이트](https://krevian-pd.art/)
 
